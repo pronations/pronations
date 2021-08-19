@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**pronations/pronations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m SHOHEL HOSSAIN
+- 👀 I’m a professional full-stack web developer and a professional programmer
+- 🌱 I’m an expert in HTM5, CSS, SASS - Javascript, jQuery - PHP - WordPress, - MySQL, PYTHON DJANGO and PYTHON DATA SCIENCE
+- 💞️ I’m looking to collaborate on HTM5, CSS, SASS - Javascript, jQuery - PHP - WordPress, - MySQL, PYTHON DJANGO and PYTHON DATA SCIENCE 
+- 📫 You can reach me by 
+- 🚀 <a href="https://www.freelancer.com/u/developershohel">Freelancer</a>
+- 🚀 <a href="https://www.fiverr.com/wordpressshohel">Fiverr</a>
+- 🚀 <a href="https://www.facebook.com/developershohel">Facebook</a>
+- 🚀 <a href="https://www.instagram.com/developershohel/">Instagram</a>
+- 🚀 <a href="https://twitter.com/developershohel">Twitter</a>
+- 🚀 <a href="https://www.linkedin.com/in/shohelhossain/">Linkdin</a>
